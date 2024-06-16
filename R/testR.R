@@ -2,6 +2,7 @@
 #'
 #' @param n An integer value specifying the range to sum.
 #' @return The sum of integers from 1 to n.
+#' @export
 #' @examples
 #' testR(10)
 testR <- function(n) {
